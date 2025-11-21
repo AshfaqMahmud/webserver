@@ -32,3 +32,4 @@ build/
 
 # Ignore the data folder
 data/
+.vscode/
